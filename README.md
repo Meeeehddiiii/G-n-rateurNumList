@@ -1,4 +1,4 @@
-<h1 align="center">Numlist Gen 📳 & Debounce Opérateur ✔️</h1>
+<h1 align="center">Numlist Générateur 📳 & Debounce Opérateur ✔️</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Génère des numéros +33 (désactivable)<br>📚 Check opérateur (au choix).<br>🎯 Génération rapide.<br>🎲 Numéros valides.<br>📜 Enregistre les numéros dans un dossier au choix.</p>
+<p align="left">✨ Génère des numéros +33 ou 06,07 (désactivable)<br>📚 Check opérateur (au choix).<br>🎯 Génération rapide.<br>🎲 Numéros valides.<br>📜 Enregistre les numéros dans un fichier de votre choix.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">1. Ouvrir le setup.bat, les modules s'installerons.<br>2. Ouvrir le NLGEN.py.<br>3. Enjoy !</p>
+<p align="left">1. Ouvrir le setup.sh, les modules s'installerons.<br>2. Ouvrir le NLGEN2.py.<br>3. Enjoy !</p>
 
 ###
 
